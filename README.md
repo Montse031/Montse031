@@ -1,6 +1,6 @@
 # Sobre mi
 
-<img src="https://github.com/Montse031.png" width= "100%">
+<img src="https://github.com/Montse031.png" width= "30%">
 
 [Información general](generales.md)
 
